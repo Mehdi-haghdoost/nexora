@@ -105,8 +105,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Mehdi-haghdoost)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mehdi-haghdoost-463610100)
+- GitHub: [Mehdi-haghdoost](https://github.com/Mehdi-haghdoost)
+- LinkedIn: [Mehdi-haghdoost](https://www.linkedin.com/in/mehdi-haghdoost-463610100)
 
 ---
 
