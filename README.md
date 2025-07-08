@@ -35,7 +35,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nexora.git
+   git clone https://github.com/Mehdi-haghdoost/nexora.git
    cd nexora
    ```
 
